@@ -1,4 +1,4 @@
-# Execução do Simulador MMCT v5.0
+# Execução 
 import simulador_mmct
 
 # Inicia a validação da métrica λ ≈ 27.6
