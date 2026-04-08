@@ -1,4 +1,132 @@
-# Execução 
+================================================================================
+SILVA-TECH HYBRID LICENSE v1.2
+Proprietary & Open-Source Hybrid License
+================================================================================
+
+Copyright (c) 2026 Luziane Aparecida da Silva (Dra. Tech) / SILVA-TECH
+All rights reserved.
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+"Software" means, collectively and individually:
+- Source code, object code, scripts and executables.
+- Technical documentation, diagrams, and architectural designs.
+- The modular architecture known as IACA-CORE.
+- Mathematical derivations, formulas, and physical models, including but not
+  limited to the Silva-Tech Vacuum Density Equation, Geometric Rigidity
+  Potential, and Canonical Parameters (a₀, f₀).
+- Any other intellectual artifacts provided by the Licensor.
+
+"Licensee" means any person or entity that receives, accesses, uses, modifies
+or distributes the Software.
+
+"Derivative Work" means any work that incorporates, is based upon, or adapts
+the Software, whether in whole or in part, including modifications, extensions,
+integrations, or any reimplementation of the core algorithms, mathematics or
+concepts herein presented.
+
+================================================================================
+2. GRANT OF LICENSE
+================================================================================
+
+Subject to strict compliance with the terms below, the Licensor hereby grants
+to the Licensee a perpetual, worldwide, non-exclusive, no-charge, royalty-free
+and irrevocable license to:
+
+  a. Use, reproduce, modify, prepare derivative works of, publicly display,
+     publicly perform, and distribute the Software;
+  b. Use the Software for personal, educational, research and commercial
+     purposes.
+
+================================================================================
+3. MANDATORY CONDITIONS (NON-NEGOTIABLE)
+================================================================================
+
+The exercise of the rights granted above is expressly conditional upon:
+
+  a. ATTRIBUTION & NOTICE
+     Every copy of the Software and every Derivative Work must retain
+     prominently and permanently:
+     - The original copyright notice;
+     - A reference to this License;
+     - The following statement:
+       > "This work is based on SILVA-TECH IACA-CORE © 2026 by Luziane
+       > Aparecida da Silva (Dra. Tech). All rights reserved. The core
+       > mathematics, architecture and concept are proprietary property
+       > of the author."
+
+  b. LICENSE PRESERVATION
+     This License text must be included in its entirety in all copies and
+     substantial portions of the Software or Derivative Works. Any sublicense
+     or distribution must occur under the exact terms of this License.
+     No re-licensing under different terms is permitted without explicit
+     written consent from the Licensor.
+
+  c. TRADEMARK & IDENTITY PROTECTION
+     The brands, names and trademarks "SILVA-TECH"™, "IACA-CORE"™ and
+     "Dra. Tech"™ are exclusive property of the author. They may not be used
+     to endorse products, services or derivative works without prior written
+     permission. The visual identity and nomenclature of the core system must
+     remain linked to the original author.
+
+================================================================================
+4. RESTRICTIONS
+================================================================================
+
+The Licensee is expressly prohibited from:
+
+  - Removing, altering, or obfuscating any copyright, trademark or license
+    notices;
+  - Claiming exclusive ownership or original authorship over the unmodified
+    portions, core algorithms or mathematical models originally provided;
+  - Using the Software or any derivative work in any way that violates
+    applicable laws or ethical standards;
+  - Attempting to patent or claim exclusive intellectual property rights over
+    the concepts, formulas or architectures disclosed herein, as these
+    constitute documented Prior Art established since February 2026.
+
+================================================================================
+5. PATENT LICENSE & PRIOR ART NOTICE
+================================================================================
+
+The Licensor grants a perpetual, non-exclusive, royalty-free license under any
+patent claims necessarily infringed by the Software.
+
+IMPORTANT NOTICE: The concepts, mathematics and architectures herein presented
+constitute PRIOR ART documented and registered since February 2026. Any
+attempt to register exclusive rights over these concepts without acknowledging
+this origin is expressly forbidden and may constitute legal violation.
+
+================================================================================
+6. DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE LICENSOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+================================================================================
+7. GOVERNING LAW AND JURISDICTION
+================================================================================
+
+This License shall be governed by and construed in accordance with the laws
+of the Federative Republic of Brazil.
+
+Any dispute arising from this License shall be resolved exclusively in the
+courts of the city of Nova Serrana, state of Minas Gerais, Brazil.
+
+================================================================================
+Trademark Claims: SILVA-TECH™ | IACA-CORE™ | Dra. Tech™
+Central Architecture: IACA-CORE v5.1
+Document Version: SILVA-TECH LICENSE v1.2
+================================================================================
+ Execução 
 import simulador_mmct
 
 # Inicia a validação da métrica λ ≈ 27.6
